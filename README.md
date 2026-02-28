@@ -1,4 +1,3 @@
-
 # ReactQuarkix: Adaptive ReactQuarkix platform featuring modern-design technology and advanced cloud-ready for modern Suite Implementation
 > Advanced typescript solution leveraging modern architecture patterns and cutting-edge technology.
 
